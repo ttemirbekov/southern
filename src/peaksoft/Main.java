@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Here we go");
         System.out.println("Welcome to our homeland");
         System.out.println("What are you up to?");
+        System.out.println("Where are you came from?");
     }
 }
 
