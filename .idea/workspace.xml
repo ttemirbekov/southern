@@ -72,6 +72,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -93,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657170885542</updated>
-      <workItem from="1657170886821" duration="506000" />
+      <workItem from="1657170886821" duration="834000" />
     </task>
     <servers />
   </component>
